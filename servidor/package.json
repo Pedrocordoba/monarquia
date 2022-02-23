@@ -1,0 +1,20 @@
+{
+  "name": "libroapi",
+  "version": "1.0.0",
+  "description": "proyecto PDYP",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  }
+}
